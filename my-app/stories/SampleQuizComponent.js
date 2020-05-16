@@ -1,10 +1,7 @@
 import React from "react";
-import PropTypes from "prop-types";
-import "./style.css";
 
 import "./style.css";
 import quizService from "./quizService";
-const root = document.getElementById("root");
 
 const Title = ({ question }) => {
   return (
