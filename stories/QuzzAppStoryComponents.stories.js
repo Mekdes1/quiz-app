@@ -8,8 +8,8 @@ import ThirdAnswer from "./ThirdAnswerComponent";
 
 export default { title: "Quzz app story components" };
 
-export const QuestionComponent = () => <Question />;
 export const TitleComponent = () => <Title />;
+export const QuestionComponent = () => <Question />;
 export const FirstAnswerComponent = () => <FirstAnswer />;
 export const SecondAnswerComponent = () => <SecondAnswer />;
 export const ThirdComponent = () => <ThirdAnswer />;
